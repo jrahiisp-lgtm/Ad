@@ -6,7 +6,7 @@ from telethon.sessions import StringSession
 # --- ضع بياناتك هنا مباشرة بدلاً من النجوم ---
 MY_API_ID = 30558508  # ضع رقم الـ API الخاص بك هنا (بدون علامات تنصيص)
 MY_API_HASH = '7d3c83c0d2e3e5ecb823eb14cd541595' # ضع الهاش الخاص بك هنا بين علامتي ' '
-MY_SESSION = '1BAAOMTQ5LjE1NC4xNjcuOTEAUMSv9Wv0PmMPnkN0AaVKfJ/F92LuxFoUdRKalYMPJCM2zlEzJyXY1wVClkXtRn28B5w0LmN7Xva7/dFvnhH2nYA/2j0KFkzdXPl4arPvtutQrzFQ336WmlGSyV9In/exg9q448UkLtBsrGGJPn/mzt89A+JGOeO9YG9y32uv2A3supw8PrES8/Iy57wmh0Xk+T5eGPD99TVwqf3WxGGKBoEaG9bHfdr4A2nqjquifkQzferJWMYTrHWdvkPgFFEfM3LTiXB4ae/J6PBs5A4E0YlBhAXVHSt1skXcWYUZfxOZ0KvzxqQRDq8i61Dl144EaBegBC/XiATiz2XwwN8jm3c=37.4 °F' # ضع كود الـ 1BAA الطويل هنا بين علامتي ' '
+MY_SESSION = '1BAAOMTQ5LjE1NC4xNjcuOTEAUAaEi07QFQzLNF1MsRvb8YHIzyjy6YQK06ot+kf6bcpCi/3hiFV750lsb5v4RhgOc/qqNUr75mGykKRt6HVYTPmVonds1dNAnHW8GLL4omHH34YIEbBTX+yvkpU4umv2Kk8Gr7ToTShnqYgkIrzvCXg7I7jCRPVtNIaNz99Hs7yNw3z1/d0tnlsWmoW/E1S/u2xmK5jLMDojGJXr39pIhrWuG4FPxGP+dj236NMv6wlEUg8VX+zOFf3eGbt3S5drw5v+a2UCx17ze4NqGYdpxe38eLdE+vNAUuqKOedoDHxjW6fPYQ+HZvw+PYZSGT0YC668aJFG1FccszAd4uRVlD0='
 # ------------------------------------------
 
 app = Flask(__name__)
